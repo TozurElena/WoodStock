@@ -1,0 +1,25 @@
+.section_about {
+  padding: 250px 0;
+}
+.text_about {
+  width: 440px;
+}
+.btn_about{
+  height: 54px;
+  width: 204px;
+  border: 2px solid #BC9A44;
+}
+.line {
+  width: 151px;
+  height: 3px;
+  background-color: #000000;
+  margin: 75px -15px;
+}
+h2 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.1em;
+  color: black;
+  border-left: 10px solid #E4D7B4;
+}

@@ -1,0 +1,50 @@
+.section_creativ {
+  margin-top: 200px;
+  background-color: black;
+}
+.team_text {
+  margin-top: 250px;
+  margin-left: 100px;
+  width: 530px;
+}
+
+.team_text h2 {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 160%;
+  border-left: 10px solid #000;
+  letter-spacing: 0.1em;
+  color: #FFFFFF;
+}
+
+.team_text p {
+  color: #FFFFFF;
+}
+
+.btn_team {
+  height: 54px;
+  width: 204px;
+  border: 2px solid #BC9A44;
+  margin-left: 145px;
+  color: #fff;
+  background-color: #000;
+}
+
+.line_team {
+  width: 151px;
+  height: 3px;
+  background-color: #fff;
+  margin: 75px -15px;
+}
+.ct_title {
+  margin-top: 100px;
+  margin-left: -230px;
+}
+.ct_title p{
+  color: #000;
+  background-color: #fff;
+  padding: 25px 15px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 42px;
+}
