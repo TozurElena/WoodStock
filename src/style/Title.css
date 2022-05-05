@@ -1,0 +1,6 @@
+.section_title {
+  background-image: url('../img/wood-left.jpg'), url('../img/wood-right.jpg');
+  /* background-repeat: no-repeat, no-repeat; */
+  padding: 250px 0;
+  text-align: center;
+}
